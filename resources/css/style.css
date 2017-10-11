@@ -1,15 +1,29 @@
 body{
   font-family: Verdana;
-}
-
-backdrop{
   background-color: black;
   text-align: center;
+  color: white;
 }
 
-#tagline{
+h1{
   font-weight: normal;
   font-size: 50 px;
-  color: black;
-  text-align: center;
+}
+
+cta{
+  color: aquamarine;
+  font-size: 16 px;
+}
+p{
+  color: gray;
+  font-size: 21 px;
+}
+h2{
+  font-weight: 300;
+  font-size: 42 px;
+}
+
+.footer{
+  text-align: right;
+  color: gray;
 }
